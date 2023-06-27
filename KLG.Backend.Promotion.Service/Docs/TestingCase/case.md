@@ -35,6 +35,7 @@ Untuk melakukan testing case terdapat template yang harus di set sebelumnya, tem
 * Item
     * Amount
         * [**0003. Promo Amount Require Method OR Result Custom Item Method And**](Find/0003.md#)
+        * [**0012. Test**]()
     * Percent
         * [**0004. Promo Percent Require Method OR Result Custom Item Method OR**](Find/0004.md#)
     * Get Item (Buy x Get Y / Buy x Get x)
